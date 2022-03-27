@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.herokuapp.crudoperation.GetBookingIds"/>
+      <class name="com.herokuapp.crudoperation.DeleteBooking"/>
+      <class name="com.herokuapp.crudoperation.CreateBooking"/>
+      <class name="com.herokuapp.crudoperation.UpdateBooking"/>
+      <class name="com.herokuapp.crudoperation.PartialUpdateBooking"/>
+      <class name="com.herokuapp.crudoperation.GetBooking"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="24" total="30" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-10T05:10:25Z" name="Default suite" finished-at="2022-02-10T05:10:59Z" duration-ms="34205">
+    <groups>
+    </groups>
+    <test started-at="2022-02-10T05:10:25Z" name="Default test" finished-at="2022-02-10T05:10:59Z" duration-ms="34205">
+      <class name="com.herokuapp.crudoperation.CreateBooking">
+        <test-method is-config="true" signature="basicInfo()[pri:0, instance:com.herokuapp.crudoperation.CreateBooking@6853425f]" started-at="2022-02-10T05:10:24Z" name="basicInfo" description="Basic url and request pass" finished-at="2022-02-10T05:10:25Z" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicInfo -->
+        <test-method is-config="true" signature="setReport()[pri:0, instance:com.herokuapp.crudoperation.CreateBooking@6853425f]" started-at="2022-02-10T05:10:25Z" name="setReport" finished-at="2022-02-10T05:10:25Z" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method signature="createBooking()[pri:0, instance:com.herokuapp.crudoperation.CreateBooking@6853425f]" started-at="2022-02-10T05:10:25Z" name="createBooking" finished-at="2022-02-10T05:10:31Z" duration-ms="5639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.herokuapp.crudoperation.CreateBooking@6853425f]" started-at="2022-02-10T05:10:59Z" name="endTest" finished-at="2022-02-10T05:10:59Z" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.herokuapp.crudoperation.CreateBooking -->
+      <class name="com.herokuapp.crudoperation.DeleteBooking">
+        <test-method signature="deleteBooking()[pri:0, instance:com.herokuapp.crudoperation.DeleteBooking@352c1b98]" started-at="2022-02-10T05:10:31Z" name="deleteBooking" finished-at="2022-02-10T05:10:37Z" duration-ms="6269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBooking -->
+      </class> <!-- com.herokuapp.crudoperation.DeleteBooking -->
+      <class name="com.herokuapp.crudoperation.GetBookingIds">
+        <test-method signature="getBookingId()[pri:0, instance:com.herokuapp.crudoperation.GetBookingIds@21129f1f]" started-at="2022-02-10T05:10:43Z" name="getBookingId" finished-at="2022-02-10T05:10:46Z" duration-ms="3215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingId -->
+      </class> <!-- com.herokuapp.crudoperation.GetBookingIds -->
+      <class name="com.herokuapp.crudoperation.UpdateBooking">
+        <test-method signature="updateBooking()[pri:0, instance:com.herokuapp.crudoperation.UpdateBooking@5a9f4771]" started-at="2022-02-10T05:10:52Z" name="updateBooking" finished-at="2022-02-10T05:10:59Z" duration-ms="6725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBooking -->
+      </class> <!-- com.herokuapp.crudoperation.UpdateBooking -->
+      <class name="com.herokuapp.crudoperation.PartialUpdateBooking">
+        <test-method signature="partialUpdateBooking()[pri:0, instance:com.herokuapp.crudoperation.PartialUpdateBooking@282cb7c7]" started-at="2022-02-10T05:10:37Z" name="partialUpdateBooking" finished-at="2022-02-10T05:10:43Z" duration-ms="6355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialUpdateBooking -->
+      </class> <!-- com.herokuapp.crudoperation.PartialUpdateBooking -->
+      <class name="com.herokuapp.crudoperation.GetBooking">
+        <test-method signature="getBooking()[pri:0, instance:com.herokuapp.crudoperation.GetBooking@7d898981]" started-at="2022-02-10T05:10:46Z" name="getBooking" finished-at="2022-02-10T05:10:52Z" duration-ms="5983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooking -->
+      </class> <!-- com.herokuapp.crudoperation.GetBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

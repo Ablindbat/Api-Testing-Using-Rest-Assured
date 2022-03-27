@@ -1,0 +1,249 @@
+2022-02-10 10:38:52,792  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:38:52,795  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:38:55,177  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:38:55,177  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:38:57,394  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:38:57,395  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:38:57,395  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:38:59,140  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:38:59,140  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:38:59,201  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:38:59,212  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:38:59,213  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:38:59,220  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:38:59,221  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:39:00,819  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:39:00,819  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:39:02,506  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:39:02,507  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:39:02,507  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:39:04,259  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:39:04,259  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:39:04,310  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:39:04,310  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:39:04,310  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:39:04,310  INFO [main] CreateBooking:21 - Creating Extent Report.
+2022-02-10 10:39:04,313  INFO [main] CreateBooking:25 - sending delete response
+2022-02-10 10:39:05,900  INFO [main] CreateBooking:32 - Delete response successfully
+2022-02-10 10:39:05,901  INFO [main] CreateBooking:36 - Extent report complete.
+2022-02-10 10:39:05,906  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:39:05,906  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:39:07,698  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:39:07,699  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:39:09,545  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:39:09,545  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:39:09,546  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:39:11,259  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:39:11,259  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:39:11,302  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:39:11,302  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:39:11,302  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:39:11,302  INFO [main] CreateBooking:28 - Start extent report.
+2022-02-10 10:39:11,303  INFO [main] CreateBooking:31 - Retrieving data from property file
+2022-02-10 10:39:11,303  INFO [main] CreateBooking:34 - Data fetched
+2022-02-10 10:39:11,303  INFO [main] CreateBooking:36 - Sending property file data to body. 
+2022-02-10 10:39:11,303  INFO [main] CreateBooking:43 - Sending partial update booking response.
+2022-02-10 10:39:13,058  INFO [main] CreateBooking:48 - Response complete.
+2022-02-10 10:39:13,058  INFO [main] CreateBooking:52 - Retrieving data from test body.
+2022-02-10 10:39:13,091  INFO [main] CreateBooking:60 - Data retrieved.
+2022-02-10 10:39:13,091  INFO [main] CreateBooking:62 - Assertion start.
+2022-02-10 10:39:13,091  INFO [main] CreateBooking:70 - Assertion complete
+2022-02-10 10:39:13,091  INFO [main] CreateBooking:74 - End extent report.
+2022-02-10 10:39:13,094  INFO [main] GetBookingIds:24 - Start ping.
+2022-02-10 10:39:14,731  INFO [main] GetBookingIds:27 - ping complete.
+2022-02-10 10:39:14,731  INFO [main] GetBookingIds:29 - Start extent report.
+2022-02-10 10:39:14,731  INFO [main] GetBookingIds:32 - Sending GetBooking id response
+2022-02-10 10:39:16,458  INFO [main] GetBookingIds:37 - Response complete.
+2022-02-10 10:39:16,459  INFO [main] GetBookingIds:40 - Retrieving data from test body.
+2022-02-10 10:39:16,464  INFO [main] GetBookingIds:46 - End extent report.
+2022-02-10 10:39:16,469  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:39:16,469  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:39:18,185  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:39:18,185  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:39:19,942  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:39:19,942  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:39:19,942  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:39:21,580  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:39:21,580  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:39:21,635  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:39:21,635  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:39:21,636  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:39:21,636  INFO [main] CreateBooking:27 - Starting extent report.
+2022-02-10 10:39:21,636  INFO [main] CreateBooking:31 - Sending getbooking response.
+2022-02-10 10:39:23,261  INFO [main] CreateBooking:37 - Getbooking response complete
+2022-02-10 10:39:23,261  INFO [main] CreateBooking:41 - Retrieving data from result body
+2022-02-10 10:39:23,315  INFO [main] CreateBooking:49 - from get all data body.
+2022-02-10 10:39:23,315  INFO [main] CreateBooking:52 - Assertion start.
+2022-02-10 10:39:23,315  INFO [main] CreateBooking:60 - Assertion complete
+2022-02-10 10:39:23,315  INFO [main] CreateBooking:64 - Extent report complete.
+2022-02-10 10:39:23,318  INFO [main] UpdateBooking:24 - Starting Extent report for create booking
+2022-02-10 10:39:23,319  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:39:23,320  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:39:24,969  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:39:24,969  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:39:26,624  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:39:26,625  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:39:26,625  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:39:28,258  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:39:28,259  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:31 - End extent report for create booking.
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:33 - Start extent report for update booking
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:37 - Retrieving data from property file.
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:45 - Property file data Retrieved.
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:48 - Passing body data.
+2022-02-10 10:39:28,305  INFO [main] CreateBooking:61 - Passing update booking response.
+2022-02-10 10:39:30,063  INFO [main] CreateBooking:67 - Update booking response passed.
+2022-02-10 10:39:30,063  INFO [main] CreateBooking:71 - Start retrieving data from result body.
+2022-02-10 10:39:30,118  INFO [main] CreateBooking:79 - Result body data Retrieved successful.
+2022-02-10 10:39:30,118  INFO [main] CreateBooking:82 - Start assertion
+2022-02-10 10:39:30,119  INFO [main] CreateBooking:90 - Assertion complete.
+2022-02-10 10:39:30,119  INFO [main] CreateBooking:94 - Update booking extent report end.
+2022-02-10 10:40:25,408  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:40:25,410  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:40:27,522  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:40:27,522  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:40:29,430  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:40:29,431  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:40:29,431  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:40:30,970  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:40:30,970  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:40:31,026  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:40:31,026  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:40:31,027  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:40:31,034  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:40:31,035  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:40:32,500  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:40:32,500  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:40:34,025  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:40:34,025  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:40:34,025  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:40:35,585  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:40:35,585  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:40:35,652  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:40:35,653  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:40:35,653  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:40:35,653  INFO [main] CreateBooking:21 - Creating Extent Report.
+2022-02-10 10:40:35,656  INFO [main] CreateBooking:25 - sending delete response
+2022-02-10 10:40:37,297  INFO [main] CreateBooking:32 - Delete response successfully
+2022-02-10 10:40:37,299  INFO [main] CreateBooking:36 - Extent report complete.
+2022-02-10 10:40:37,303  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:40:37,303  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:40:38,818  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:40:38,818  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:40:40,383  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:40:40,383  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:40:40,383  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:40:41,978  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:40:41,978  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:40:42,023  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:40:42,024  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:40:42,024  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:40:42,024  INFO [main] CreateBooking:28 - Start extent report.
+2022-02-10 10:40:42,024  INFO [main] CreateBooking:31 - Retrieving data from property file
+2022-02-10 10:40:42,024  INFO [main] CreateBooking:34 - Data fetched
+2022-02-10 10:40:42,024  INFO [main] CreateBooking:36 - Sending property file data to body. 
+2022-02-10 10:40:42,024  INFO [main] CreateBooking:43 - Sending partial update booking response.
+2022-02-10 10:40:43,616  INFO [main] CreateBooking:48 - Response complete.
+2022-02-10 10:40:43,616  INFO [main] CreateBooking:52 - Retrieving data from test body.
+2022-02-10 10:40:43,654  INFO [main] CreateBooking:60 - Data retrieved.
+2022-02-10 10:40:43,654  INFO [main] CreateBooking:62 - Assertion start.
+2022-02-10 10:40:43,654  INFO [main] CreateBooking:70 - Assertion complete
+2022-02-10 10:40:43,654  INFO [main] CreateBooking:74 - End extent report.
+2022-02-10 10:40:43,658  INFO [main] GetBookingIds:24 - Start ping.
+2022-02-10 10:40:45,257  INFO [main] GetBookingIds:27 - ping complete.
+2022-02-10 10:40:45,258  INFO [main] GetBookingIds:29 - Start extent report.
+2022-02-10 10:40:45,258  INFO [main] GetBookingIds:32 - Sending GetBooking id response
+2022-02-10 10:40:46,859  INFO [main] GetBookingIds:37 - Response complete.
+2022-02-10 10:40:46,859  INFO [main] GetBookingIds:40 - Retrieving data from test body.
+2022-02-10 10:40:46,871  INFO [main] GetBookingIds:46 - End extent report.
+2022-02-10 10:40:46,874  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:40:46,875  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:40:48,257  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:40:48,257  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:40:49,706  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:40:49,706  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:40:49,707  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:40:51,246  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:40:51,247  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:40:51,309  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:40:51,310  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:40:51,310  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:40:51,310  INFO [main] CreateBooking:27 - Starting extent report.
+2022-02-10 10:40:51,310  INFO [main] CreateBooking:31 - Sending getbooking response.
+2022-02-10 10:40:52,818  INFO [main] CreateBooking:37 - Getbooking response complete
+2022-02-10 10:40:52,818  INFO [main] CreateBooking:41 - Retrieving data from result body
+2022-02-10 10:40:52,854  INFO [main] CreateBooking:49 - from get all data body.
+2022-02-10 10:40:52,855  INFO [main] CreateBooking:52 - Assertion start.
+2022-02-10 10:40:52,855  INFO [main] CreateBooking:60 - Assertion complete
+2022-02-10 10:40:52,855  INFO [main] CreateBooking:64 - Extent report complete.
+2022-02-10 10:40:52,857  INFO [main] UpdateBooking:24 - Starting Extent report for create booking
+2022-02-10 10:40:52,858  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-10 10:40:52,858  INFO [main] CreateBooking:23 - ping start
+2022-02-10 10:40:54,420  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-10 10:40:54,420  INFO [main] CreateBooking:28 - Generating token
+2022-02-10 10:40:56,070  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-10 10:40:56,070  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-10 10:40:56,071  INFO [main] CreateBooking:45 - Sending response
+2022-02-10 10:40:57,896  INFO [main] CreateBooking:53 - response complete
+2022-02-10 10:40:57,897  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-10 10:40:57,933  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-10 10:40:57,933  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-10 10:40:57,933  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-10 10:40:57,933  INFO [main] CreateBooking:31 - End extent report for create booking.
+2022-02-10 10:40:57,934  INFO [main] CreateBooking:33 - Start extent report for update booking
+2022-02-10 10:40:57,934  INFO [main] CreateBooking:37 - Retrieving data from property file.
+2022-02-10 10:40:57,934  INFO [main] CreateBooking:45 - Property file data Retrieved.
+2022-02-10 10:40:57,934  INFO [main] CreateBooking:48 - Passing body data.
+2022-02-10 10:40:57,934  INFO [main] CreateBooking:61 - Passing update booking response.
+2022-02-10 10:40:59,531  INFO [main] CreateBooking:67 - Update booking response passed.
+2022-02-10 10:40:59,531  INFO [main] CreateBooking:71 - Start retrieving data from result body.
+2022-02-10 10:40:59,581  INFO [main] CreateBooking:79 - Result body data Retrieved successful.
+2022-02-10 10:40:59,581  INFO [main] CreateBooking:82 - Start assertion
+2022-02-10 10:40:59,581  INFO [main] CreateBooking:90 - Assertion complete.
+2022-02-10 10:40:59,581  INFO [main] CreateBooking:94 - Update booking extent report end.
+2022-02-13 21:03:48,580  INFO [main] GetBookingIds:24 - Start ping.
+2022-02-13 21:03:53,011  INFO [main] GetBookingIds:27 - ping complete.
+2022-02-13 21:03:53,012  INFO [main] GetBookingIds:29 - Start extent report.
+2022-02-13 21:03:53,023  INFO [main] GetBookingIds:32 - Sending GetBooking id response
+2022-02-13 21:03:55,991  INFO [main] GetBookingIds:37 - Response complete.
+2022-02-13 21:03:56,006  INFO [main] GetBookingIds:40 - Retrieving data from test body.
+2022-02-13 21:03:57,629  INFO [main] GetBookingIds:46 - End extent report.
+2022-02-13 21:03:57,645  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-13 21:03:57,646  INFO [main] CreateBooking:23 - ping start
+2022-02-13 21:04:00,721  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-13 21:04:00,722  INFO [main] CreateBooking:28 - Generating token
+2022-02-13 21:04:03,005  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-13 21:04:03,007  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-13 21:04:03,008  INFO [main] CreateBooking:45 - Sending response
+2022-02-13 21:04:05,133  INFO [main] CreateBooking:53 - response complete
+2022-02-13 21:04:05,135  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-13 21:04:05,377  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-13 21:04:05,379  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-13 21:04:05,384  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-13 21:04:05,385  INFO [main] CreateBooking:21 - Creating Extent Report.
+2022-02-13 21:04:05,386  INFO [main] CreateBooking:25 - sending delete response
+2022-02-13 21:04:07,910  INFO [main] CreateBooking:32 - Delete response successfully
+2022-02-13 21:04:07,912  INFO [main] CreateBooking:36 - Extent report complete.
+2022-02-13 21:04:07,918  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-13 21:04:07,919  INFO [main] CreateBooking:23 - ping start
+2022-02-13 21:04:11,171  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-13 21:04:11,172  INFO [main] CreateBooking:28 - Generating token
+2022-02-13 21:04:13,865  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-13 21:04:13,866  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-13 21:04:13,867  INFO [main] CreateBooking:45 - Sending response
+2022-02-13 21:04:16,701  INFO [main] CreateBooking:53 - response complete
+2022-02-13 21:04:16,701  INFO [main] CreateBooking:56 - Retrieving body data
+2022-02-13 21:04:16,948  INFO [main] CreateBooking:66 - Retrieve data from body successful.
+2022-02-13 21:04:16,949  INFO [main] CreateBooking:68 - Assertion the data
+2022-02-13 21:04:16,950  INFO [main] CreateBooking:77 - Assertion complete
+2022-02-13 21:04:16,953  INFO [main] UpdateBooking:24 - Starting Extent report for create booking
+2022-02-13 21:04:16,958  INFO [main] CreateBooking:21 - Base URI and request specification established.
+2022-02-13 21:04:16,960  INFO [main] CreateBooking:23 - ping start
+2022-02-13 21:04:19,772  INFO [main] CreateBooking:26 - ping successfully.
+2022-02-13 21:04:19,773  INFO [main] CreateBooking:28 - Generating token
+2022-02-13 21:04:22,454  INFO [main] CreateBooking:30 - Token generated successfully.
+2022-02-13 21:04:22,456  INFO [main] CreateBooking:32 - Body data entry.
+2022-02-13 21:04:22,456  INFO [main] CreateBooking:45 - Sending response

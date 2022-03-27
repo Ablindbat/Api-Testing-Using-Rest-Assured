@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.herokuapp.crudoperation.UpdateBooking">
+        <methods>
+          <include name="basicInfo"/>
+          <include name="setReport"/>
+          <include name="endTest"/>
+          <include name="updateBooking"/>
+        </methods>
+      </class> <!-- com.herokuapp.crudoperation.UpdateBooking -->
+      <class name="com.herokuapp.crudoperation.PartialUpdateBooking">
+        <methods>
+          <include name="basicInfo"/>
+          <include name="setReport"/>
+          <include name="partialUpdateBooking"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.herokuapp.crudoperation.PartialUpdateBooking -->
+      <class name="com.herokuapp.crudoperation.GetBooking">
+        <methods>
+          <include name="basicInfo"/>
+          <include name="setReport"/>
+          <include name="getBooking"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.herokuapp.crudoperation.GetBooking -->
+      <class name="com.herokuapp.crudoperation.CreateBooking">
+        <methods>
+          <include name="basicInfo"/>
+          <include name="setReport"/>
+          <include name="createBooking"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.herokuapp.crudoperation.CreateBooking -->
+      <class name="com.herokuapp.crudoperation.DeleteBooking">
+        <methods>
+          <include name="basicInfo"/>
+          <include name="setReport"/>
+          <include name="endTest"/>
+          <include name="deleteBooking"/>
+        </methods>
+      </class> <!-- com.herokuapp.crudoperation.DeleteBooking -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
